@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Alaa Samir
 
-### Full Stack Web Developer graduated from ITI (Minya Branch).
+### Full Stack Web Developer graduated from ITI.
 Obtained a Intensive Code Camp (ICC). Also participated in many volunteering activates as IT and PR. 
 Seeks to develop my career path to achieve my goal.
 
